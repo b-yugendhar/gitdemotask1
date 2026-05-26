@@ -1,0 +1,11 @@
+//productid,productname,price,quantity
+P101,Wireless Mouse,799,25
+P102,Mechanical Keyboard,2499,15
+P103,USB-C Charger,1299,40
+P104,Laptop Stand,999,18
+P105,Bluetooth Speaker,1899,12
+P106,External Hard Drive,4599,10
+P107,Webcam HD,1599,20
+P108,Gaming Headset,2999,14
+P109,Smart Watch,5499,8
+P110,Power Bank,1499,30
