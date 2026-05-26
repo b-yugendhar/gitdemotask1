@@ -9,3 +9,5 @@ P107,Webcam HD,1599,20
 P108,Gaming Headset,2999,14
 P109,Smart Watch,5499,8
 P110,Power Bank,1499,30
+p111,laptops,70000,15
+p112,mobile,12000,23
